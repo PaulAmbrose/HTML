@@ -3,12 +3,15 @@ h1 {
 }
 
 .cheatsheets{
-  color: purple
+  color: purple;
+  width: 500px;
+  margin: 20px 50px;
 }
 
 .cheatsheets li{
-  color: Red
+  color: Red;
 }
 #memory_aids{
-  color: green
+  color: green;
 }
+
