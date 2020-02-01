@@ -8,18 +8,18 @@
     display: inline-block;
 
     /*box size*/
-    max-width:250px;
-    height:25%;
+    width:25%;
+    height: 0 auto;
 
     /*box model adjustments*/
-    padding:20px 30px;
-    margin:30px 20px;
+    padding:20px 10px;
+    margin:10px 20px;
 
     /*text stuff */
     color: blue;
     font-size:14px;
     line-height:48px;
-    text-align: left;}
+    text-align: center;}
 
       #linking{
         /* box stuff */
@@ -30,17 +30,17 @@
       #selectors{
         /* box stuff */
           /*colours*/
-          border:1px dotted red;
+          border:5px dotted red;
           background-color: rgb(80, 138, 172);}
 
       #box_model{
         /* box stuff */
           /*colours*/
-          border:1px dotted yellow;
+          border:5px dotted yellow;
           background-color: rgb(100, 150, 190);}
 
-      #display_and_positioning{
+      #positioning{
         /* box stuff */
           /*colours*/
-          border:1px dotted green;
+          border:5px dotted green;
           background-color: rgb(110, 160, 200);}
