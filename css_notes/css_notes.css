@@ -1,9 +1,23 @@
 .content {
-    border: 1px dotted red;
-    color: red;
+    /* box stuff */
+
+        /*colours*/
+        border: 1px dotted red;
+        background-color: lightblue;
+
+        /*position*/
+        display: inline-block;
+
+        /*box size*/
+        max-width: 250px;
+        height: 150px;
+
+        /*box model adjustments*/
+        padding: 20px 30px;
+        margin: 30px 20px;
+
+    /*text stuff */
+    color: blue;
     font-size: 14px;
     line-height: 48px;
-    padding: 20px 30px;
-    margin: 30px 20px;
-    text-align: center;
-}
+    text-align: left;}
