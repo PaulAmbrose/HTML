@@ -1,0 +1,46 @@
+.content 
+  {/* box stuff */
+    /*colours*/
+    border:1px dotted blue;
+    background-color: lightblue;
+
+    /*position*/
+    display: inline-block;
+
+    /*box size*/
+    max-width:250px;
+    height:25%;
+
+    /*box model adjustments*/
+    padding:20px 30px;
+    margin:30px 20px;
+
+    /*text stuff */
+    color: blue;
+    font-size:14px;
+    line-height:48px;
+    text-align: left;}
+
+      #linking{
+        /* box stuff */
+          /*colours*/
+          border:5px dotted purple;
+          background-color: rgb(68, 106, 119);}
+
+      #selectors{
+        /* box stuff */
+          /*colours*/
+          border:1px dotted red;
+          background-color: rgb(80, 138, 172);}
+
+      #box_model{
+        /* box stuff */
+          /*colours*/
+          border:1px dotted yellow;
+          background-color: rgb(100, 150, 190);}
+
+      #display_and_positioning{
+        /* box stuff */
+          /*colours*/
+          border:1px dotted green;
+          background-color: rgb(110, 160, 200);}
